@@ -1,7 +1,6 @@
 RonPaulCoin integration/staging tree
 ================================
 
-http://www.ronpaulcoin.org
 
 Copyright (c) 2009-2013 Bitcoin Developers
 
