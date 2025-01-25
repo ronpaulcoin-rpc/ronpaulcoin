@@ -2,6 +2,8 @@ RonPaulCoin integration/staging tree
 ================================
 
 http://www.ronpaulcoin.xyz
+
+
 Copyright (c) 2009-2013 Bitcoin Developers
 
 Copyright (c) 2013-2014 RonPaulCoin Developers (colinistheman,onaboat,Tranz,Dajackal)
@@ -18,7 +20,7 @@ RonPaulCoin is a more rare version of Bitcoin using scrypt as a proof-of-work al
 
 For more information, as well as an immediately useable, binary version of
 the RonPaulCoin client sofware, see
-http://www.ronpaulcoin.org
+http://www.ronpaulcoin.xyz
 
 License
 -------
